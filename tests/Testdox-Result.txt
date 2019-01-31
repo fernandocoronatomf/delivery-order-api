@@ -13,13 +13,13 @@ Deliveryorder
  [x] It gets all customers
  [x] It deletes a customer
 
-JsonReader
- [x] It reads json order and map to specific entities
- [x] It throws exception if file does not exist
-
 ProcessDeliverFactory
  [x] It throws exception if type does not exist
 
 ProcessDeliveryOrder
  [x] It process delivery orders
+
+JsonReader
+ [x] It reads json order and map to specific entities
+ [x] It throws exception if file does not exist
 
