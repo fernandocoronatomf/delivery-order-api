@@ -1,0 +1,25 @@
+Campaign
+ [x] It adds a new campaign
+
+Customer
+ [x] It adds a new customer
+ [x] It throws an exception if id is less than 0
+ [x] It gets all customers
+ [x] It deletes a customer
+
+Deliveryorder
+ [x] It adds a new delivery order
+ [x] It throws an exception if id is less than 0
+ [x] It gets all customers
+ [x] It deletes a customer
+
+JsonReader
+ [x] It reads json order and map to specific entities
+ [x] It throws exception if file does not exist
+
+ProcessDeliverFactory
+ [x] It throws exception if type does not exist
+
+ProcessDeliveryOrder
+ [x] It process delivery orders
+
