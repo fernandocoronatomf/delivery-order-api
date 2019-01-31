@@ -26,6 +26,8 @@ To Run the tests (Code repo 100% tested)
 ./vendor/phpunit/phpunit/phpunit tests
 ```
 
+![Alt text](test-coverage.png?raw=true "Title")
+
 # Overview
 
 The application Domain/ stores entities and value-objects classes
