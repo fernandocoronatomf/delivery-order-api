@@ -75,11 +75,6 @@ Order no 2 processed and will be delived in 3 days
 
 Order no 3 sent to external api to be validated 
 Order no 3 processed and will be delived in 1 days 
-
-
-// ProcessPersonalDelivery
-
-
 ```
 
 To run the code yourself, please do 
