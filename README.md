@@ -1,3 +1,9 @@
+# Requirements
+
+Composer
+
+PHP 7.2+
+
 # Configuring
 
 Download the zip file
@@ -78,7 +84,6 @@ Order no 3 processed and will be delived in 1 days
 ```
 
 To run the code yourself, please do 
-
 ```
 php -S localhost:8001
 ```
